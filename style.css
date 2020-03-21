@@ -1,0 +1,18 @@
+body {
+    background-image: url(kevin-mueller-G7rLW02g3ZI-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+  }
+
+  p, a{
+    font-family: 'Oxygen', sans-serif;
+  }
+
+  p {
+      font-weight: bold;
+  }
+
+  img {
+      opacity: 0.6;
+  }
