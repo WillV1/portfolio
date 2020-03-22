@@ -17,3 +17,7 @@ body {
   img {
       opacity: 0.6;
   }
+
+  .mb-0{
+    color: white;
+  }
