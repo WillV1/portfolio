@@ -2,6 +2,7 @@ body {
     background-image: url(kevin-mueller-G7rLW02g3ZI-unsplash.jpg);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     height: 100%;
     background-repeat: no-repeat;
   }
