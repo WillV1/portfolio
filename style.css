@@ -22,3 +22,7 @@ body {
   .mb-0{
     color: white;
   }
+
+  .card {
+    margin: 2 em;
+  }
