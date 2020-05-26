@@ -1,5 +1,5 @@
 body {
-    background-image: url(kevin-mueller-G7rLW02g3ZI-unsplash.jpg);
+    background-image: url(dakota-corbin-unsplash.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -17,10 +17,6 @@ body {
 
   img {
       opacity: 0.6;
-  }
-
-  .mb-0{
-    color: white;
   }
 
   .card {
